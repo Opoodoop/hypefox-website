@@ -37,13 +37,13 @@
                 <div class="text-gray-100 font-bold tracking-widest uppercase mb-4">Company</div>
                 <nav class="flex flex-col gap-4">
                    <div>
-                      <a href="#" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Portfolio</a>
+                      <a href="/portfolio/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Portfolio</a>
                    </div>
                    <div>
-                      <a href="#" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">About</a>
+                      <a href="/about/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">About</a>
                    </div>
                    <div>
-                      <NuxtLink to="/team" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Team</NuxtLink>
+                      <NuxtLink to="/team/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Team</NuxtLink>
                    </div>
                 </nav>
              </div>

@@ -6,9 +6,9 @@
              <img src="/img/icon.png" class="pt-1 h-[45px] w-[45px]"/>Hypefox Studios</NuxtLink>
              <nav class="hidden lg:flex gap-12">
                 <NuxtLink active-class="!text-indigo-500" to="/" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Home</NuxtLink>
-                <NuxtLink active-class="!text-indigo-500" to="/portfolio" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Portfolio</NuxtLink>
-                <NuxtLink active-class="!text-indigo-500" to="/team" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Team</NuxtLink>
-                <NuxtLink active-class="!text-indigo-500" to="/about" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">About</NuxtLink>
+                <NuxtLink active-class="!text-indigo-500" to="/portfolio/" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Portfolio</NuxtLink>
+                <NuxtLink active-class="!text-indigo-500" to="/team/" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">Team</NuxtLink>
+                <NuxtLink active-class="!text-indigo-500" to="/about/" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">About</NuxtLink>
              </nav>
              <a href="#" class="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Contact us</a>
              <button type="button" class="inline-flex items-center lg:hidden bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold rounded-lg gap-2 px-2.5 py-2">
