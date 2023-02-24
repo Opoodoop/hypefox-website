@@ -19,6 +19,10 @@ export default defineNuxtConfig({
             title: "Welcome to Hypefox Studios 👋🏻",
             meta: [
                 {
+                    name: "title",
+                    content: "Inovative IT-solutions | Hypefox Studios"
+                },
+                {
                     name: "description",
                     content: "Hypefox Studios entertains the world with amazing game servers, apps, and software. Providing valuable services to both businesses, projects, and consumers."
                 },
@@ -32,6 +36,50 @@ export default defineNuxtConfig({
                 },
                 {
                     name: "theme-color",
+                    content: "#6616cc"
+                },
+                {
+                    name: "og:type",
+                    content: "website"
+                },
+                {
+                    name: "og:url",
+                    content: "https://hypefoxstudios.com/"
+                },
+                {
+                    name: "og:title",
+                    content: "Inovative IT-solutions | Hypefox Studios"
+                },
+                {
+                    name: "og:description",
+                    content: "Hypefox Studios entertains the world with amazing game servers, apps, and software. Providing valuable services to both businesses, projects, and consumers."
+                },
+                {
+                    name: "og:image",
+                    content: "https://hypefoxstudios.com/img/icon.png"
+                },
+                {
+                    name: "twitter:card",
+                    content: "summary_large_image"
+                },
+                {
+                    name: "twitter:url",
+                    content: "https://hypefoxstudios.com/"
+                },
+                {
+                    name: "twitter:title",
+                    content: "Inovative IT-solutions | Hypefox Studios"
+                },
+                {
+                    name: "twitter:description",
+                    content: "Hypefox Studios entertains the world with amazing game servers, apps, and software. Providing valuable services to both businesses, projects, and consumers."
+                },
+                {
+                    name: "twitter:image",
+                    content: "https://hypefoxstudios.com/img/icon.png"
+                },
+                {
+                    name: "msapplication-TileColor",
                     content: "#6616cc"
                 }
             ]
