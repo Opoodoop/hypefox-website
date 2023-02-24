@@ -9,7 +9,7 @@
           <div class="flex flex-wrap justify-center items-center gap-x-4 lg:gap-x-8 gap-y-8 lg:gap-y-12">
              <div class="bg-gray-800 pb-5 rounded-2xl items-center justify-center text-center">
                 <div class="h-48 sm:h-60 md:h-80 overflow-hidden rounded-lg mb-2 sm:mb-4">
-                   <img src="/img/emilio.png" loading="lazy" class="w-[400px] h-[400px] object-center"/>
+                   <img src="/img/emilio.png" class="w-[400px] h-[400px] object-center"/>
                 </div>
                 <div>
                    <div class="text-indigo-500 md:text-lg font-bold">
@@ -34,7 +34,7 @@
              </div>
              <div class="bg-gray-800 pb-5 rounded-2xl items-center justify-center text-center">
                 <div class="h-48 sm:h-60 md:h-80 bg-gray-100 overflow-hidden rounded-lg shadow-lg mb-2 sm:mb-4">
-                   <img src="/img/lazar.png" loading="lazy" class="w-[400px] h-[400px] object-center"/>
+                   <img src="/img/lazar.png" class="w-[400px] h-[400px] object-center"/>
                 </div>
                 <div>
                    <div class="text-indigo-500 md:text-lg font-bold">
@@ -62,7 +62,7 @@
           <div class="flex flex-wrap justify-center items-center gap-x-4 lg:gap-x-8 gap-y-8 lg:gap-y-12">
              <div class="bg-gray-800 pb-5 rounded-2xl items-center justify-center text-center">
                 <div class="h-48 sm:h-60 md:h-80 overflow-hidden rounded-lg mb-2 sm:mb-4">
-                   <img src="/img/liam.png" loading="lazy" class="w-[400px] h-[400px] object-center"/>
+                   <img src="/img/liam.png" class="w-[400px] h-[400px] object-center"/>
                 </div>
                 <div>
                    <div class="text-indigo-500 md:text-lg font-bold">
