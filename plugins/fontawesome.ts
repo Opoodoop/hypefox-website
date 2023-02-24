@@ -6,5 +6,5 @@ import { fas } from "@fortawesome/free-solid-svg-icons";
 library.add(fas, far, fab);
 config.autoAddCss = false;
 export default defineNuxtPlugin((nuxtApp) => {
-  nuxtApp.vueApp.component("font-awesome-icon", FontAwesomeIcon);
+  nuxtApp.vueApp.component("FAIcon", FontAwesomeIcon);
 });
