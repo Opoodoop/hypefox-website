@@ -54,7 +54,7 @@
                       <a href="https://ironsightrp.net/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Ironsight RP</a>
                    </div>
                    <div>
-                      <a href="https://skyshade.net/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">SkyShade</a>
+                      <a class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">SkyShade</a>
                    </div>
                 </nav>
              </div>
@@ -62,10 +62,10 @@
                 <div class="text-gray-100 font-bold tracking-widest uppercase mb-4">Products</div>
                 <nav class="flex flex-col gap-4">
                    <div>
-                      <a href="https://id.hypefoxstudios.com/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Hypefox ID</a>
+                      <a class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Hypefox ID</a>
                    </div>
                    <div>
-                      <a href="https://fiveport.com/" class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Fiveport</a>
+                      <a class="text-gray-400 hover:text-indigo-500 active:text-indigo-600 transition duration-100">Fiveport</a>
                    </div>
                 </nav>
              </div>
