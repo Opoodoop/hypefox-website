@@ -14,7 +14,7 @@
                 <div class="p-6">
                    <h3 class="font-bold text-white text-center mb-2 text-lg">Ironsight RP</h3>
                    <p class="text-gray-400 text-base mb-4">A modern, cutting-edge FiveM roleplay server with a vibrant community. Our server is designed to provide players with an immersive and engaging roleplaying experience, set in a dynamic and ever-evolving world. With a focus on community, our server offers a welcoming and supportive environment for players to come together and create their own stories.</p>
-                   <a href="https://ironsightrp.net/" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded flex justify-center items-center align-middle focus:outline-none focus:shadow-outline">Visit website</a>
+                   <a href="https://ironsightrp.net" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded flex justify-center items-center align-middle focus:outline-none focus:shadow-outline">Visit website</a>
                 </div>
              </div>
           </div>
@@ -56,11 +56,11 @@
        <div class="flex flex-wrap justify-center items-center gap-x-4 lg:gap-x-8 gap-y-8 lg:gap-y-12">
           <div class="w-full md:w-1/3 px-4 mb-8">
              <div class="bg-gray-800 rounded-lg overflow-hidden shadow-xl">
-                <img src="https://cdn.discordapp.com/attachments/963064973796470784/1002217015248957470/IMG_20220728_160704.jpg" alt="TridentNodes" class="w-full h-64 object-cover">
+                <img src="/img/tri.png" alt="TridentNodes" class="w-full h-64 object-cover">
                 <div class="p-6">
                    <h3 class="font-bold text-white text-center mb-2 text-lg">TridentNodes</h3>
                    <p class="text-gray-400 text-base mb-4">TridentNodes is a hosting provider that delivers affordable, reliable, and high-performance hosting solutions. We offer quality web hosting backed by our commitment to affordability, reliability, and performance. Our team is dedicated to providing exceptional customer service and support. Game hosting and VPS hosting will soon be added to fulfill all of your needs.</p>
-                   <a href="https://tridentnodes.com/" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded flex justify-center items-center align-middle focus:outline-none focus:shadow-outline">Visit website</a>
+                   <a href="https://tridentnodes.com" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded flex justify-center items-center align-middle focus:outline-none focus:shadow-outline">Visit website</a>
                 </div>
              </div>
           </div>
