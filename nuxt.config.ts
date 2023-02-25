@@ -20,7 +20,7 @@ export default defineNuxtConfig({
             meta: [
                 {
                     name: "title",
-                    content: "Inovative IT-solutions | Hypefox Studios"
+                    content: "Innovative IT-solutions | Hypefox Studios"
                 },
                 {
                     name: "description",
@@ -48,7 +48,7 @@ export default defineNuxtConfig({
                 },
                 {
                     name: "og:title",
-                    content: "Inovative IT-solutions | Hypefox Studios"
+                    content: "Innovative IT-solutions | Hypefox Studios"
                 },
                 {
                     name: "og:description",
@@ -68,7 +68,7 @@ export default defineNuxtConfig({
                 },
                 {
                     name: "twitter:title",
-                    content: "Inovative IT-solutions | Hypefox Studios"
+                    content: "Innovative IT-solutions | Hypefox Studios"
                 },
                 {
                     name: "twitter:description",
