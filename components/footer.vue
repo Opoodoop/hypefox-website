@@ -4,10 +4,10 @@
           <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-12 lg:gap-8 pt-10 lg:pt-12 mb-16">
              <div class="col-span-full lg:col-span-2">
                 <div class="lg:-mt-2 mb-4">
-                   <a href="/" class="inline-flex items-center text-gray-100 text-xl md:text-2xl font-bold gap-2.5" aria-label="logo">
+                   <NuxtLink to="/" class="inline-flex items-center text-gray-100 text-xl md:text-2xl font-bold gap-2.5" aria-label="logo">
                    <img src="/img/icon.png" class="pt-1 h-[45px] w-[45px]">
                    Hypefox Studios
-                   </a>
+                   </NuxtLink>
                 </div>
                 <p class="text-gray-400 sm:pr-8 mb-6">We entertain the world with amazing game servers, apps, and software. Providing valuable services to both businesses, projects, and consumers.</p>
                 <div class="flex gap-4">
