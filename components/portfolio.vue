@@ -29,7 +29,7 @@
              </div>
           </div>
        </div>
-       <h2 class="text-white text-2xl lg:text-3xl font-bold text-center mb-4 mb-4 md:mb-6 mt-12">Products</h2>
+       <h2 class="text-white text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6 mt-12">Products</h2>
        <div class="flex flex-wrap justify-center items-center gap-x-4 lg:gap-x-8 gap-y-8 lg:gap-y-12">
           <div class="w-full md:w-1/3 px-4 mb-8">
              <div class="bg-gray-800 rounded-lg overflow-hidden shadow-xl">
@@ -52,7 +52,7 @@
              </div>
           </div>
        </div>
-       <h2 class="text-white text-2xl lg:text-3xl font-bold text-center mb-4 mb-4 md:mb-6 mt-12">Solutions</h2>
+       <h2 class="text-white text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6 mt-12">Solutions</h2>
        <div class="flex flex-wrap justify-center items-center gap-x-4 lg:gap-x-8 gap-y-8 lg:gap-y-12">
           <div class="w-full md:w-1/3 px-4 mb-8">
              <div class="bg-gray-800 rounded-lg overflow-hidden shadow-xl">
