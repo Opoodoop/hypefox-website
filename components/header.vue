@@ -1,21 +1,35 @@
 <template>
-    <div class="bg-gray-900 pb-2 sm:pb-2 lg:pb-2">
-       <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-          <header class="flex justify-between items-center py-4 md:py-8">
-             <NuxtLink to="/" class="inline-flex items-center text-black-800 text-2xl text-white md:text-3xl font-bold gap-2.5" aria-label="logo">
-             <img src="/img/icon.png" class="pt-1 h-[45px] w-[45px]"/>Hypefox Studios</NuxtLink>
-             <nav class="hidden lg:flex gap-12">
-                <NuxtLink active-class="!text-indigo-500" to="/" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100"><Icon name="fa6-solid:house" class="mr-2 mb-1"/>Home</NuxtLink>
-                <NuxtLink active-class="!text-indigo-500" to="/portfolio" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100"><Icon name="fa6-solid:list-check" class="mr-2 mb-1"/>Portfolio</NuxtLink>
-                <NuxtLink active-class="!text-indigo-500" to="/team" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100"><Icon name="fa6-solid:people-group" class="mr-2 mb-1"/>Team</NuxtLink>
-                <NuxtLink active-class="!text-indigo-500" to="/about" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100"><Icon name="fa6-solid:briefcase" class="mr-2 mb-1"/>About</NuxtLink>
-             </nav>
-             <a href="mailto:contact@hypefoxstudios.com" class="hidden lg:inline-block bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Contact us<Icon name="fa6-solid:comments" class="ml-2 mb-1"/></a>
-             <button type="button" class="inline-flex items-center lg:hidden bg-gray-200 hover:bg-gray-300 focus-visible:ring ring-indigo-300 text-gray-500 active:text-gray-700 text-sm md:text-base font-semibold rounded-lg gap-2 px-2.5 py-2">
-               <Icon name="fa6-solid:bars"/>
-               Menu
-             </button>
-          </header>
-       </div>
-    </div>
+    <header>
+        <nav class="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
+            <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
+                <a href="https://flowbite.com" class="flex items-center">
+                    <img src="https://tridentnodes.com/uploads/themes/asset/client_logo.png" class="mr-3 h-6 sm:h-9" alt="Trident"/>
+                </a>
+                <div class="flex items-center lg:order-2">
+                    <a href="https://billing.tridentnodes.com" class="text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-indigo-600 dark:hover:bg-indigo-700 focus:outline-none dark:focus:ring-primary-800">Client area</a>
+                    <button data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+                        <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                    </button>
+                </div>
+                <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
+                    <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                        <li>
+                            <a href="#" class="block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white" aria-current="page">Home</a>
+                        </li>
+                        <li>
+                            <NuxtLink to="/features" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Features</NuxtLink>
+                        </li>
+                        <li>
+                            <NuxtLink to="/services" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Services</NuxtLink>
+                        </li>
+                        <li>
+                            <NuxtLink to="/features" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Features</NuxtLink>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
 </template>
