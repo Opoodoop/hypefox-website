@@ -1,7 +1,7 @@
 <template>
    <div class="bg-gray-900">
        <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-           <section class="min-h-64 md:min-h-96 flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-8 md:py-16 xl:py-48">
+           <section class="min-h-64 md:min-h-96 flex justify-center items-center flex-1 shrink-0 overflow-hidden shadow-lg rounded-lg relative py-8 md:py-16 xl:py-48">
                <video autoplay muted loop class="w-full h-full object-cover object-center absolute">
                    <source src="/vid/intro.mp4" type="video/mp4">
                </video>
