@@ -29,7 +29,7 @@
                 </div>
              </div>
              <div class="bg-gray-800 pb-5 rounded-2xl items-center justify-center text-center">
-                <div class="h-48 sm:h-60 md:h-80 bg-gray-100 overflow-hidden rounded-lg shadow-lg mb-2 sm:mb-4">
+                <div class="h-48 sm:h-60 md:h-80 overflow-hidden rounded-lg shadow-lg mb-2 sm:mb-4">
                    <img src="/img/lazar.png" class="w-[400px] h-[400px] object-center"/>
                 </div>
                 <div>
