@@ -1,6 +1,6 @@
 <template>
-    <Banner/>
-    <Header/>
-    <Hero/>
-    <Footer/>
+    <Banner />
+    <Header />
+    <Hero />
+    <Footer />
 </template>

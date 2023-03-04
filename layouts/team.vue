@@ -1,6 +1,6 @@
 <template>
-    <Banner/>
-    <Header/>
-    <Team/>
-    <Footer/>
+    <Banner />
+    <Header />
+    <Team />
+    <Footer />
 </template>

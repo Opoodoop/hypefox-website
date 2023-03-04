@@ -12,16 +12,16 @@
                     <p class="text-gray-400 sm:pr-8 mb-6">We entertain the world with amazing game servers, apps, and software. Providing valuable services to both businesses, projects, and consumers.</p>
                     <div class="flex gap-4">
                         <a href="https://www.instagram.com/hypefoxstudios" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                            <Icon name="fa6-brands:instagram" class="h-5 w-5 mb-2"/>
+                            <Icon name="fa6-brands:instagram" class="h-5 w-5 mb-2" />
                         </a>
                         <a href="https://twitter.com/officialhypefox" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                            <Icon name="fa6-brands:twitter" class="h-5 w-5 mb-2"/>
+                            <Icon name="fa6-brands:twitter" class="h-5 w-5 mb-2" />
                         </a>
                         <a href="https://linkedin.com/company/hypefox-studios" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                            <Icon name="fa6-brands:linkedin-in" class="h-5 w-5 mb-2"/>
+                            <Icon name="fa6-brands:linkedin-in" class="h-5 w-5 mb-2" />
                         </a>
                         <a href="https://github.com/officialhypefox" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                            <Icon name="fa6-brands:github" class="h-5 w-5 mb-2"/>
+                            <Icon name="fa6-brands:github" class="h-5 w-5 mb-2" />
                         </a>
                     </div>
                 </div>
@@ -85,5 +85,5 @@
     </div>
 </template>
 <script setup lang="ts">
-   const year = new Date().getFullYear();
+    const year = new Date().getFullYear();
 </script>
