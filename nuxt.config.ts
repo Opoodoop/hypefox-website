@@ -5,6 +5,7 @@ export default defineNuxtConfig({
         "nuxt-icon"
     ],
     dir: {
+        public: "static",
         pages: "routes"
     }
 });
