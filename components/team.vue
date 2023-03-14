@@ -91,27 +91,6 @@
                        </div>
                    </div>
                </div>
-               <div class="bg-gray-800 pb-5 rounded-2xl items-center justify-center text-center">
-                   <div class="overflow-hidden rounded-lg mb-2 sm:mb-4">
-                       <img src="https://cdn.discordapp.com/avatars/792587261828530187/a_8efd2572baaebf2f8b489fa3e360b02b.png" class="w-[400px] h-[400px] object-center" />
-                   </div>
-                   <div>
-                       <div class="text-indigo-500 md:text-lg font-bold">
-                           <div class="flex items-center text-center justify-center gap-x-2 lg:gap-x-2"><img src="/img/sweden.png" class="h-[20px] w-[30px]" /> Ewwe K.</div>
-                       </div>
-                       <p class="text-gray-400 text-sm md:text-base mb-2 md:mb-2">Emotional Damage</p>
-                       <div class="flex items-center justify-center">
-                           <div class="flex gap-4">
-                                <a href="https://github.com/LiamRJ" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                                   <Icon name="fa6-brands:github" class="h-5 w-5" />
-                               </a>
-                               <a href="https://www.linkedin.com/in/liam-runström-jardbring-324218241" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                                   <Icon name="fa6-brands:linkedin-in" class="h-5 w-5" />
-                               </a>
-                           </div>
-                       </div>
-                   </div>
-               </div>
            </div>
        </div>
    </div>
