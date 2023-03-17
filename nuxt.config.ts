@@ -7,5 +7,8 @@ export default defineNuxtConfig({
     dir: {
         public: "static",
         pages: "routes"
+    },
+    app: {
+        cdnURL: "https://cdn.hypefoxstudios.com/hypefox-website"
     }
 });
