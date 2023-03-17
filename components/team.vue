@@ -78,7 +78,8 @@
                        <div class="text-indigo-500 md:text-lg font-bold">
                            <div class="flex items-center text-center justify-center gap-x-2 lg:gap-x-2"><img src="/img/sweden.png" class="h-[20px] w-[30px]" /> Liam J.</div>
                        </div>
-                       <p class="text-gray-400 text-sm md:text-base mb-2 md:mb-2">Branding / Marketing</p>
+                       <p class="text-gray-500 text-sm md:text-base">Kenneth Sköld</p>
+                       <p class="text-gray-400 text-sm md:text-base mb-2">Branding / Marketing</p>
                        <div class="flex items-center justify-center">
                            <div class="flex gap-4">
                                 <a href="https://github.com/LiamRJ" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
