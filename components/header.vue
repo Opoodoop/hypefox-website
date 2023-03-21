@@ -3,7 +3,7 @@
         <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
             <header class="flex justify-between items-center py-4 md:py-8">
                 <NuxtLink to="/" class="inline-flex items-center text-black-800 text-2xl text-white md:text-3xl font-bold gap-2.5" aria-label="logo">
-                    <img src="/img/icon.png" class="pt-1 h-[45px] w-[45px]" />Hypefox Studios
+                    <img src="/img/icon.png" class="pt-1 h-[35px] w-[60px]" />Hypefox Studios
                 </NuxtLink>
                 <nav class="hidden lg:flex gap-12">
                     <NuxtLink v-for="(link, index) in links" :key="index" :to="link.url" active-class="!text-indigo-500" class="text-white hover:text-indigo-500 active:text-indigo-700 text-lg font-semibold transition duration-100">

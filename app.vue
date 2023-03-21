@@ -12,6 +12,6 @@
         ogDescription: description,
         ogImage: "https://hypefoxstudios.com/img/logo.png",
         twitterCard: "summary_large_image",
-        themeColor: "#6520cf"
+        themeColor: "#6211e6"
     });
 </script>
