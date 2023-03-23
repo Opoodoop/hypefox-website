@@ -17,7 +17,7 @@
                             <Icon name="fa6-brands:twitter" class="h-5 w-5 mb-2" />
                         </a>
                          <a href="https://www.facebook.com/hypefoxstudios" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
-                            <Icon name="fa6-brands:fa-facebook-f" class="h-5 w-5 mb-2" />
+                            <Icon name="fa6-brands:facebook" class="h-5 w-5 mb-2" />
                         </a>
                         <a href="https://linkedin.com/company/officialhypefox" target="_blank" class="text-gray-400 hover:text-gray-500 active:text-gray-600 transition duration-100">
                             <Icon name="fa6-brands:linkedin-in" class="h-5 w-5 mb-2" />
