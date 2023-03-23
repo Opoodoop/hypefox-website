@@ -35,7 +35,7 @@
                    </div>
                    <div>
                        <div class="text-indigo-500 md:text-lg font-bold">
-                           <div class="flex items-center text-center justify-center gap-x-2 lg:gap-x-2"><img src="/img/sweden.png" class="h-[20px] w-[30px]" /> Liam J.</div>
+                           <div class="flex items-center text-center justify-center gap-x-2 lg:gap-x-2"><img src="/img/sweden.png" class="h-[20px] w-[30px]" /> Liam RJ.</div>
                        </div>
                        <p class="text-gray-500 text-sm md:text-base">Kenneth Sköld</p>
                        <p class="text-gray-400 text-sm md:text-base mb-2">Co-founder / CMO</p>
