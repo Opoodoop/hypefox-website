@@ -70,7 +70,7 @@
                             "url": "https://www.linkedin.com/in/liam-runström-jardbring-324218241"
                             },
                             {
-                             "name": "outlook",
+                             "name": "envelope",
                             "text": "liam@hypefoxstudios.com"
                         }
                     ]
