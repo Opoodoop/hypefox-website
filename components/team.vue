@@ -55,18 +55,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Lazar S",
-                    "nickname": "ExoticalCat",
-                    "title": "Owner / CFO",
-                    "image": "lazar",
-                    "country": "romania",
-                    "socials": [{
-                        "name": "github",
-                        "url": "https://github.com/devil38"
-                    }]
-                },
-                {
+                               {
                     "name": "Liam J",
                     "nickname": "Kenneth Sköld",
                     "title": "Co-founder / CMO",
@@ -79,17 +68,32 @@
                         {
                             "name": "linkedin",
                             "url": "https://www.linkedin.com/in/liam-runström-jardbring-324218241"
+                            },
+                            {
+                             "name": "outlook",
+                            "text": "liam@hypefoxstudios.com"
                         }
                     ]
                 }
             ]
         },
+                {
+                    "name": "Lazar S",
+                    "nickname": "ExoticalCat",
+                    "title": "Owner / CFO",
+                    "image": "lazar",
+                    "country": "romania",
+                    "socials": [{
+                        "name": "github",
+                        "url": "https://github.com/devil38"
+                    }]
+                },
         {
             "name": "Management",
             "members": [{
                 "name": "Knut L",
                 "nickname": "Opoodoop",
-                "title": "Design / CTO",
+                "title": "CTO",
                 "image": "knut",
                 "country": "sweden",
                 "socials": [{
