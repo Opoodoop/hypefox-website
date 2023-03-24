@@ -55,7 +55,7 @@
                         }
                     ]
                 },
-                               {
+                {
                     "name": "Liam J",
                     "nickname": "Kenneth Sköld",
                     "title": "Co-founder / CMO",
@@ -68,16 +68,10 @@
                         {
                             "name": "linkedin",
                             "url": "https://www.linkedin.com/in/liam-runström-jardbring-324218241"
-                            },
-                            {
-                             "name": "microsoft-outlook",
-                            "text": "liam@hypefoxstudios.com"
                         }
                     ]
-                }
-            ]
-        },
-                {
+                    },
+                  {
                     "name": "Lazar S",
                     "nickname": "ExoticalCat",
                     "title": "Owner / CFO",
@@ -86,14 +80,17 @@
                     "socials": [{
                         "name": "github",
                         "url": "https://github.com/devil38"
-                    }]
-                },
+                    }
+                  ]
+                }
+            ]
+        },
         {
             "name": "Management",
             "members": [{
                 "name": "Knut L",
                 "nickname": "Opoodoop",
-                "title": "CTO",
+                "title": "Design / CTO",
                 "image": "knut",
                 "country": "sweden",
                 "socials": [{
