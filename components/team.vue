@@ -85,17 +85,6 @@
                 }
             ]
         },
-        {
-            "name": "Management",
-            "members": [{
-                "name": "Knut L",
-                "nickname": "Opoodoop",
-                "title": "Design / CTO",
-                "image": "knut",
-                "country": "sweden",
-                "socials": [{
-                    "name": "github",
-                    "url": "https://github.com/Opoodoop"
                 }]
             }]
         }
